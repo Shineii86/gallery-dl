@@ -185,6 +185,7 @@ modules = [
     "rule34vault",
     "rule34xyz",
     "s3ndpics",
+    "sakuhentai",
     "sankaku",
     "sankakucomplex",
     "scatbooru",
